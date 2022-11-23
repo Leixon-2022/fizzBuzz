@@ -60,3 +60,7 @@ for (let i = 1; i <= answer; i++) {
   element.style.textAlign = "center";
   element.style.padding = "0 10rem";
 }
+/**
+ * För att komma till lektionsdelen om fizzbuzz i OdenProject,
+ * så är länken här: https://www.theodinproject.com/lessons/foundations-problem-solving
+ */
